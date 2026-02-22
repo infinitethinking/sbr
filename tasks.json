@@ -142,5 +142,14 @@
     "status": "pending",
     "due_at": null,
     "created_at": "2026-02-22T18:48:00+01:00"
+  },
+  {
+    "id": 19,
+    "title": "Plan always-on cloud gateway deployment",
+    "description": "Evaluate zero/low-cost options (VPS, spare hardware) and draft a migration plan so the OpenClaw gateway can run 24/7 without relying on the local laptop.",
+    "priority": 4,
+    "status": "pending",
+    "due_at": null,
+    "created_at": "2026-02-22T20:40:00+01:00"
   }
 ]
