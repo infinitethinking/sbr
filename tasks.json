@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "title": "Deliver expanded triathlon brand audit",
+    "description": "Synthesize insights from training, bike, nutrition, and apparel leaders into a positioning brief for our Phase 1 launch.\n\nProgress log:\n- 2026-02-22 17:52 CET: Created task-1/outline.md capturing sections for the triathlon brand audit.\n- 2026-02-22 17:53 CET: Added market context trends and audience personas into task-1/outline.md to ground the audit.\n- 2026-02-22 17:54 CET: Drafted competitive landscape notes across training, bike, nutrition, apparel, and white-space opportunities in task-1/outline.md.\n- 2026-02-22 17:55 CET: Drafted brand positioning framework (purpose, pillars, RTBs, tone) within task-1/outline.md.\n- 2026-02-22 17:56 CET: Added Phase 1 launch recommendations (messaging, channels, quick wins, longer-term bets) into task-1/outline.md.\n- 2026-02-22 17:57 CET: Documented next steps, data gaps, and stakeholder plan in task-1/outline.md to guide completion.\n- 2026-02-22 17:58 CET: Wrote executive summary synthesizing the audit narrative in task-1/outline.md.\n- 2026-02-22 17:59 CET: Compiled refined audit narrative into task-1/brand-audit.md for sharing.\n- 2026-02-22 18:00 CET: Draft deliverable (task-1/brand-audit.md) complete; ready for stakeholder review.",
+    "priority": 4,
+    "status": "done",
+    "due_at": "2026-02-22T18:30:00+01:00",
+    "created_at": "2026-02-22T17:50:00+01:00"
+  },
+  {
+    "id": 4,
+    "title": "Audit leading triathlon and adjacent brands",
+    "description": "Study training, bike, nutrition, and apparel leaders (Feisty Media, TriDot, Canyon, Precision Fuel, On, etc.) to extract positioning cues for our Phase 1 build.",
+    "priority": 5,
+    "status": "pending",
+    "due_at": null,
+    "created_at": "2026-02-22T18:43:00+01:00"
+  },
+  {
+    "id": 5,
+    "title": "Draft Phase 1 brand brief and content strategy",
+    "description": "Consolidate audit insights into a positioning guide covering voice, pillars, and launch content plan.",
+    "priority": 5,
+    "status": "pending",
+    "due_at": null,
+    "created_at": "2026-02-22T18:43:00+01:00"
+  },
+  {
+    "id": 17,
+    "title": "Prepare detailed line-item budget",
+    "description": "Refine initial estimates into a precise cost breakdown for stack, tools, and paid experiments.",
+    "priority": 5,
+    "status": "pending",
+    "due_at": null,
+    "created_at": "2026-02-22T18:43:00+01:00"
+  },
+  {
+    "id": 10,
+    "title": "Create high-value lead magnet",
+    "description": "Build the 12-week sub-5h half-Iron plan with fueling matrix for email capture.",
+    "priority": 5,
+    "status": "pending",
+    "due_at": null,
+    "created_at": "2026-02-22T18:43:00+01:00"
+  },
+  {
+    "id": 11,
+    "title": "Build email automation funnel",
+    "description": "Implement nurturing sequence that converts lead magnet signups into premium offerings.",
+    "priority": 4,
+    "status": "pending",
+    "due_at": null,
+    "created_at": "2026-02-22T18:43:00+01:00"
+  },
+  {
+    "id": 7,
+    "title": "Produce flagship long-form content pillars",
+    "description": "Create cornerstone guides (Ironman readiness blueprint, fueling calculators, masters power benchmarks).",
+    "priority": 4,
+    "status": "pending",
+    "due_at": null,
+    "created_at": "2026-02-22T18:43:00+01:00"
+  },
+  {
+    "id": 8,
+    "title": "Launch weekly pro insights newsletter",
+    "description": "Set up and publish a recurring newsletter delivering training tips, gear reviews, and data deep dives.",
+    "priority": 4,
+    "status": "pending",
+    "due_at": null,
+    "created_at": "2026-02-22T18:43:00+01:00"
+  },
+  {
+    "id": 9,
+    "title": "Publish short-form social clips",
+    "description": "Repurpose long-form content into daily social posts across IG/Threads/LinkedIn.",
+    "priority": 4,
+    "status": "pending",
+    "due_at": null,
+    "created_at": "2026-02-22T18:43:00+01:00"
+  },
+  {
+    "id": 12,
+    "title": "Develop tiered training plans",
+    "description": "Ship novice/intermediate/advanced plans with integrated calculators and checklists.",
+    "priority": 4,
+    "status": "pending",
+    "due_at": null,
+    "created_at": "2026-02-22T18:43:00+01:00"
+  },
+  {
+    "id": 13,
+    "title": "Design premium membership offering",
+    "description": "Define benefits, community access, async Q&A, and data tools for a paid membership.",
+    "priority": 4,
+    "status": "pending",
+    "due_at": null,
+    "created_at": "2026-02-22T18:43:00+01:00"
+  },
+  {
+    "id": 14,
+    "title": "Execute Month 1 growth plan",
+    "description": "Deliver free content cadence plus lead magnet push to grow list and social presence.",
+    "priority": 4,
+    "status": "pending",
+    "due_at": null,
+    "created_at": "2026-02-22T18:43:00+01:00"
+  },
+  {
+    "id": 15,
+    "title": "Execute Month 2 monetization plan",
+    "description": "Launch paid training plans ($59\u2013$129) and supporting toolkits.",
+    "priority": 4,
+    "status": "pending",
+    "due_at": null,
+    "created_at": "2026-02-22T18:43:00+01:00"
+  },
+  {
+    "id": 16,
+    "title": "Execute Month 3 membership plan",
+    "description": "Release $29\u2013$49/mo membership with exclusive content, challenges, and sponsor deals.",
+    "priority": 4,
+    "status": "pending",
+    "due_at": null,
+    "created_at": "2026-02-22T18:43:00+01:00"
+  },
+  {
+    "id": 6,
+    "title": "Present plan and budget for approval",
+    "description": "Package the Phase 1 plan plus detailed budget for Boss review and sign-off.",
+    "priority": 4,
+    "status": "pending",
+    "due_at": null,
+    "created_at": "2026-02-22T18:43:00+01:00"
+  },
+  {
+    "id": 18,
+    "title": "Migrate workspace to cloud repo + hosting",
+    "description": "Create GitHub repository, push current project, and configure free static hosting (GitHub Pages/Netlify) so work persists when local machine sleeps.",
+    "priority": 5,
+    "status": "pending",
+    "due_at": null,
+    "created_at": "2026-02-22T18:48:00+01:00"
+  }
+]
