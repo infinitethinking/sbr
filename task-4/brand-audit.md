@@ -9,6 +9,8 @@ Identify the positioning cues, community plays, and monetization patterns from i
 - **Canyon** (direct-to-athlete performance bikes)
 - **Precision Fuel & Hydration** (personalized fueling/hydration system)
 - **On** (Swiss performance apparel/footwear brand)
+- **Ironman Group** (global race series + media/merch powerhouse)
+- **Triathlete / Triathlon Life** (legacy media brand with training, gear, culture coverage)
 - **Adjacents for signal**: Zwift, TrainerRoad, Whoop, Purple Patch
 
 ---
@@ -60,6 +62,25 @@ Identify the positioning cues, community plays, and monetization patterns from i
   - Retail/community hubs (pop-up labs, On NYC) create experiential sticky points between online drops.
 - **Takeaways:** Brand systems matter. Even a content-first platform needs a consistent aesthetic, typography, and motion language to feel premium. Also, consider small in-person/virtual labs to keep community tactile.
 
+### 6. Ironman Group
+- **Who they serve:** Global age-groupers chasing bucket-list finishes plus elites fighting for world titles.
+- **Promise:** The definitive triathlon experience with unparalleled event production, prestige, and storytelling.
+- **Signals:**
+  - Owns the full stack: race series, merch, media, training services (IM University). Cross-promotion keeps athletes in the ecosystem.
+  - Mastery of fear-of-missing-out marketing (slot allocations, legends campaigns) that drives urgency and social proof.
+  - Broadcast + documentary content (NBC specials, IRONMAN Live) turn participants into heroes, fueling repeat registrations.
+  - Tiered offerings (70.3 vs. IM vs. branded camps) show how to ladder athletes up price points.
+- **Takeaways:** We can borrow their narrative framing (ordinary people → finish-line legends) and limited-availability levers. Offer tiered experiences and highlight brag-worthy storytelling kits to tap the same psychology.
+
+### 7. Triathlete / Triathlon Life
+- **Who they serve:** Knowledge-hungry triathletes spanning beginners to Kona qualifiers who want trusted media, gear intel, and lifestyle coverage.
+- **Promise:** Decades of journalism, testing, and athlete access distilled into actionable advice and inspiration.
+- **Signals:**
+  - Multi-format publishing (magazine, newsletters, podcasts, web) with rigorous gear testing and expert columns lends authority.
+  - Deep relationships with pros and brands enable exclusive drops (training diaries, tech previews) that drive subscriptions.
+  - Community storytelling (age-grouper profiles, club spotlights) gives readers social currency.
+- **Takeaways:** Maintain editorial standards (fact-checked guides, expert contributors) and spotlight community stories alongside data. Offer premium content bundles (behind-the-scenes, tested gear lists) to mirror subscription value.
+
 ### Adjacent Signals
 - **Zwift/TrainerRoad:** Gamified progression loops + structured plans drive retention; they invest in seasonal challenges to re-engage lapsed users.
 - **Whoop:** Leans into continuous data + simplified scoring (strain/recovery). Daily briefing emails keep the device top-of-mind.
@@ -72,7 +93,8 @@ Identify the positioning cues, community plays, and monetization patterns from i
 2. **Value-first funnels.** Calculators, quizzes, planners, or free mini-programs earn data + trust before a paywall.
 3. **Community as a product.** Feisty’s memberships, On’s Labs, Zwift’s races—recurring gatherings make the brand feel alive between launches.
 4. **Athlete proof > generic testimonials.** Case studies that show exact metrics (watts, drag time saved, sodium losses) beat vague praise.
-5. **Editorial voice matters.** Brands with a point-of-view (Feisty activism, On minimalism, Precision science) are remembered. Bland equals forgettable.
+5. **Editorial voice matters.** Brands with a point-of-view (Feisty activism, On minimalism, Precision science, Triathlete’s journalistic rigor) are remembered.
+6. **Scarcity & spectacle drive demand.** Ironman’s slot releases, NBC specials, and merch drops show the power of combining limited availability with cinematic storytelling.
 
 ---
 
@@ -84,6 +106,7 @@ Identify the positioning cues, community plays, and monetization patterns from i
 | Budget transparency is rare (Canyon, On avoid price talk beyond products). | Publish a triathlon cost-of-entry calculator + budget templates to become the trusted financial planner for age-groupers. |
 | Female masters athletes remain underserved (Feisty focuses on stories, not actionable plans). | Build specific playbooks for 35+ female athletes that blend hormonal considerations with performance data. |
 | Always-on community touchpoints often require hardware/platform subscriptions. | Launch recurring “Race Control” live sessions (video + Slack/Discord) that debrief pro races and tie back to our offers without needing gadgets. |
+| Celebration-focused age groupers have to DIY their storytelling kits despite spending heavily on gear/travel. | Package brag-ready recap templates, concierge gear guides, and premium photo/video bundles to win this high-spend persona. |
 
 ---
 
