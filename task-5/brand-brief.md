@@ -17,6 +17,7 @@
 | Competitive Achiever | Cut 10–15 minutes off 70.3 without extra hours; prove ROI of gear and nutrition choices. | Feel like an elite with a data-backed plan tailored to their body. | Trigger: plateaued FTP/run pace; Barrier: skepticism toward generic plans, distrust of hype. |
 | Comeback Master | Rebuild consistency with injury-aware training and fueling protocols. | Trust their body again and feel represented (esp. female masters). | Trigger: cleared post-injury, wants structured return; Barrier: fear of overtraining, hormone needs ignored. |
 | Time-Crunched Pro | Fit quality training into 8–10 hours/week while juggling career/family budget. | Confidence that every session matters and costs stay predictable. | Trigger: prepping for key race; Barrier: hidden costs, complex planning tools. |
+| Celebration Finisher | Secure a confident finish with premium gear guidance, pacing tips, and storytelling templates. | Feel proud, glamorous, and share-worthy—even if mid/back-of-pack. | Trigger: race sign-up with friends or charity; Barrier: fear of being judged, overwhelmed by options despite budget. |
 
 ## 3. Brand Platform
 - **Purpose:** Make elite-level triathlon execution accessible to working athletes who demand proof.
