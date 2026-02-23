@@ -161,5 +161,17 @@
     "status": "pending",
     "due_at": null,
     "created_at": "2026-02-22T20:40:00+01:00"
+  },
+  {
+    "id": 20,
+    "title": "Define differentiated positioning narrative",
+    "description": "Synthesize audit/brief insights into a conviction statement: what TriClaw brings to triathlon that no one else does, the narrative arc, and proof points.",
+    "priority": 5,
+    "status": "in_progress",
+    "due_at": null,
+    "created_at": "2026-02-23T06:48:57.304626",
+    "progress_log": [
+      "2026-02-23T06:48:57.304626: Created task-20 and kicked off positioning manifesto in task-20/positioning-manifesto.md"
+    ]
   }
 ]
