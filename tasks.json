@@ -171,7 +171,8 @@
     "due_at": null,
     "created_at": "2026-02-23T06:48:57.304626",
     "progress_log": [
-      "2026-02-23T06:48:57.304626: Created task-20 and kicked off positioning manifesto in task-20/positioning-manifesto.md"
+      "2026-02-23T06:48:57.304626: Created task-20 and kicked off positioning manifesto in task-20/positioning-manifesto.md",
+      "2026-02-23T06:57:22.753805+01:00: Refocused positioning manifesto on Phase 1 B2C training toolkit and funnel deliverables."
     ]
   }
 ]
