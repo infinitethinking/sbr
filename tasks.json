@@ -1,179 +1,63 @@
 [
   {
-    "id": 1,
-    "title": "Deliver expanded triathlon brand audit",
-    "description": "Synthesize insights from training, bike, nutrition, and apparel leaders into a positioning brief for our Phase 1 launch.\n\nProgress log:\n- 2026-02-22 17:52 CET: Created task-1/outline.md capturing sections for the triathlon brand audit.\n- 2026-02-22 17:53 CET: Added market context trends and audience personas into task-1/outline.md to ground the audit.\n- 2026-02-22 17:54 CET: Drafted competitive landscape notes across training, bike, nutrition, apparel, and white-space opportunities in task-1/outline.md.\n- 2026-02-22 17:55 CET: Drafted brand positioning framework (purpose, pillars, RTBs, tone) within task-1/outline.md.\n- 2026-02-22 17:56 CET: Added Phase 1 launch recommendations (messaging, channels, quick wins, longer-term bets) into task-1/outline.md.\n- 2026-02-22 17:57 CET: Documented next steps, data gaps, and stakeholder plan in task-1/outline.md to guide completion.\n- 2026-02-22 17:58 CET: Wrote executive summary synthesizing the audit narrative in task-1/outline.md.\n- 2026-02-22 17:59 CET: Compiled refined audit narrative into task-1/brand-audit.md for sharing.\n- 2026-02-22 18:00 CET: Draft deliverable (task-1/brand-audit.md) complete; ready for stakeholder review.",
-    "priority": 4,
-    "status": "done",
-    "due_at": "2026-02-22T18:30:00+01:00",
-    "created_at": "2026-02-22T17:50:00+01:00"
-  },
-  {
-    "id": 4,
-    "title": "Audit leading triathlon and adjacent brands",
-    "description": "Study training, bike, nutrition, and apparel leaders (Feisty Media, TriDot, Canyon, Precision Fuel, On, etc.) to extract positioning cues for our Phase 1 build.",
+    "id": 101,
+    "title": "Ship TriClaw Seasonal Playbook",
+    "description": "Build the asynchronous premium product: 12-week sub-5h blueprint (Sprint + 70.3 variants), pro-inspired key sessions, fuel/pace calculators, transition checklists, and duplicable Notion/CSV dashboards.",
     "priority": 5,
     "status": "in_progress",
     "due_at": null,
-    "created_at": "2026-02-22T18:43:00+01:00",
+    "created_at": "2026-02-24T07:30:00+01:00",
     "progress_log": [
-      "2026-02-23T05:26:23.927393+01:00: Created task-4/brand-audit.md capturing cues across Feisty, TriDot, Canyon, Precision Fuel & Hydration, On, plus adjacent signals.",
-      "2026-02-23T06:37:04.611945+01:00: Expanded task-4/brand-audit.md with Ironman and Triathlete/Triathlon Life analysis plus updated patterns/opportunities.",
-      "2026-02-23T06:44:57.296614+01:00: Expanded audit to cover World Triathlon, Supertri, PTO/T100, GTN, 220 Triathlon, Roka, FORM, Whoop, Tonal, CrossFit/Peloton/F1/Strava, plus monetization snapshot."
+      "2026-02-24T07:35:00+01:00: Pivot approved with focus on async product revenue; requirements captured from target athlete interview."
     ]
   },
   {
-    "id": 5,
-    "title": "Draft Phase 1 brand brief and content strategy",
-    "description": "Consolidate audit insights into a positioning guide covering voice, pillars, and launch content plan.",
-    "priority": 5,
-    "status": "done",
-    "due_at": null,
-    "created_at": "2026-02-22T18:43:00+01:00",
-    "progress_log": [
-      "2026-02-23T05:36:36.063434+01:00: Created task-5/brand-brief-outline.md defining structure for the Phase 1 brand brief and content strategy.",
-      "2026-02-23T06:25:27.138637+01:00: Drafted task-5/brand-brief.md covering positioning, personas, pillars, offer architecture, and launch plan.",
-      "2026-02-23T06:32:42.281667+01:00: Updated personas to include Celebration Finisher segment in task-5/brand-brief.md.",
-      "2026-02-23T13:46:37.162648: Finalized brand brief (task-5/brand-brief.md) covering positioning, offer tiers, content plan, and launch roadmap."
-    ]
-  },
-  {
-    "id": 17,
-    "title": "Prepare detailed line-item budget",
-    "description": "Refine initial estimates into a precise cost breakdown for stack, tools, and paid experiments.",
+    "id": 102,
+    "title": "Design and launch TriClaw landing site",
+    "description": "Create a high-polish marketing site (hero, proof, offer stack, FAQ, checkout) that sells the Seasonal Playbook and captures leads.",
     "priority": 5,
     "status": "pending",
     "due_at": null,
-    "created_at": "2026-02-22T18:43:00+01:00"
+    "created_at": "2026-02-24T07:36:00+01:00"
   },
   {
-    "id": 10,
-    "title": "Create high-value lead magnet",
-    "description": "Build the 12-week sub-5h half-Iron plan with fueling matrix for email capture.",
-    "priority": 5,
-    "status": "pending",
-    "due_at": null,
-    "created_at": "2026-02-22T18:43:00+01:00"
-  },
-  {
-    "id": 11,
-    "title": "Build email automation funnel",
-    "description": "Implement nurturing sequence that converts lead magnet signups into premium offerings.",
+    "id": 103,
+    "title": "Produce Race-Week Stress Test lead magnet + automation",
+    "description": "Draft the 10-page checklist + fueling matrix, wire the delivery email, and add a 3-touch nurture sequence driving to the Playbook offer.",
     "priority": 4,
     "status": "pending",
     "due_at": null,
-    "created_at": "2026-02-22T18:43:00+01:00"
+    "created_at": "2026-02-24T07:37:00+01:00"
   },
   {
-    "id": 7,
-    "title": "Produce flagship long-form content pillars",
-    "description": "Create cornerstone guides (Ironman readiness blueprint, fueling calculators, masters power benchmarks).",
+    "id": 104,
+    "title": "Build IG/X daily content kit",
+    "description": "Batch 7-day carousel + reel templates plus companion X threads featuring pro insights, seasonal prompts, and CTA to the Playbook.",
     "priority": 4,
     "status": "pending",
     "due_at": null,
-    "created_at": "2026-02-22T18:43:00+01:00"
+    "created_at": "2026-02-24T07:38:00+01:00"
   },
   {
-    "id": 8,
-    "title": "Launch weekly pro insights newsletter",
-    "description": "Set up and publish a recurring newsletter delivering training tips, gear reviews, and data deep dives.",
+    "id": 105,
+    "title": "Set up checkout + delivery automation",
+    "description": "Implement Stripe/Lemon Squeezy checkout, gated download delivery, and customer onboarding instructions.",
     "priority": 4,
     "status": "pending",
     "due_at": null,
-    "created_at": "2026-02-22T18:43:00+01:00"
+    "created_at": "2026-02-24T07:39:00+01:00"
   },
   {
-    "id": 9,
-    "title": "Publish short-form social clips",
-    "description": "Repurpose long-form content into daily social posts across IG/Threads/LinkedIn.",
+    "id": 106,
+    "title": "Document audience intelligence",
+    "description": "Capture all interview insights (race cadence, budget, content preferences) in a reference memo so every asset stays on-brief.",
     "priority": 4,
-    "status": "pending",
-    "due_at": null,
-    "created_at": "2026-02-22T18:43:00+01:00"
-  },
-  {
-    "id": 12,
-    "title": "Develop tiered training plans",
-    "description": "Ship novice/intermediate/advanced plans with integrated calculators and checklists.",
-    "priority": 4,
-    "status": "pending",
-    "due_at": null,
-    "created_at": "2026-02-22T18:43:00+01:00"
-  },
-  {
-    "id": 13,
-    "title": "Design premium membership offering",
-    "description": "Define benefits, community access, async Q&A, and data tools for a paid membership.",
-    "priority": 4,
-    "status": "pending",
-    "due_at": null,
-    "created_at": "2026-02-22T18:43:00+01:00"
-  },
-  {
-    "id": 14,
-    "title": "Execute Month 1 growth plan",
-    "description": "Deliver free content cadence plus lead magnet push to grow list and social presence.",
-    "priority": 4,
-    "status": "pending",
-    "due_at": null,
-    "created_at": "2026-02-22T18:43:00+01:00"
-  },
-  {
-    "id": 15,
-    "title": "Execute Month 2 monetization plan",
-    "description": "Launch paid training plans ($59\u2013$129) and supporting toolkits.",
-    "priority": 4,
-    "status": "pending",
-    "due_at": null,
-    "created_at": "2026-02-22T18:43:00+01:00"
-  },
-  {
-    "id": 16,
-    "title": "Execute Month 3 membership plan",
-    "description": "Release $29\u2013$49/mo membership with exclusive content, challenges, and sponsor deals.",
-    "priority": 4,
-    "status": "pending",
-    "due_at": null,
-    "created_at": "2026-02-22T18:43:00+01:00"
-  },
-  {
-    "id": 6,
-    "title": "Present plan and budget for approval",
-    "description": "Package the Phase 1 plan plus detailed budget for Boss review and sign-off.",
-    "priority": 4,
-    "status": "pending",
-    "due_at": null,
-    "created_at": "2026-02-22T18:43:00+01:00"
-  },
-  {
-    "id": 18,
-    "title": "Migrate workspace to cloud repo + hosting",
-    "description": "Create GitHub repository, push current project, and configure free static hosting (GitHub Pages/Netlify) so work persists when local machine sleeps.",
-    "priority": 5,
-    "status": "pending",
-    "due_at": null,
-    "created_at": "2026-02-22T18:48:00+01:00"
-  },
-  {
-    "id": 19,
-    "title": "Plan always-on cloud gateway deployment",
-    "description": "Evaluate zero/low-cost options (VPS, spare hardware) and draft a migration plan so the OpenClaw gateway can run 24/7 without relying on the local laptop.",
-    "priority": 4,
-    "status": "pending",
-    "due_at": null,
-    "created_at": "2026-02-22T20:40:00+01:00"
-  },
-  {
-    "id": 20,
-    "title": "Define differentiated positioning narrative",
-    "description": "Synthesize audit/brief insights into a conviction statement: what TriClaw brings to triathlon that no one else does, the narrative arc, and proof points.",
-    "priority": 5,
     "status": "in_progress",
     "due_at": null,
-    "created_at": "2026-02-23T06:48:57.304626",
+    "created_at": "2026-02-24T07:40:00+01:00",
     "progress_log": [
-      "2026-02-23T06:48:57.304626: Created task-20 and kicked off positioning manifesto in task-20/positioning-manifesto.md",
-      "2026-02-23T06:57:22.753805+01:00: Refocused positioning manifesto on Phase 1 B2C training toolkit and funnel deliverables."
+      "2026-02-24T07:45:00+01:00: Drafted outline for intelligence memo covering athlete profile, seasonal rhythm, and pricing feedback.",
+      "2026-02-24T18:45:00+01:00: Authored audience-intelligence memo (task-106/audience-intelligence.md) capturing race cadence, pricing reaction, and product implications."
     ]
   }
 ]
