@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>TriClaw Seasonal Stack</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      --bg: #050505;
+      --text: #f5f5f5;
+      --muted: #8b8b8b;
+      --accent: #00d2ff;
+      --accent-2: #ff7a18;
+      --border: rgba(255,255,255,0.12);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Inter", "SF Pro Display", system-ui, -apple-system, sans-serif;
+      background: radial-gradient(circle at top, rgba(0,210,255,0.08), transparent 45%), var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+    }
+    header {
+      padding: 56px 6vw 32px;
+      border-bottom: 1px solid var(--border);
+    }
+    h1 {
+      margin: 0 0 16px;
+      font-weight: 800;
+      letter-spacing: -0.02em;
+      font-size: clamp(2.2rem, 4vw, 3.6rem);
+    }
+    .tagline {
+      max-width: 720px;
+      color: var(--muted);
+      font-size: 1.05rem;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 20px;
+      padding: 40px 6vw 20px;
+    }
+    .card {
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      padding: 24px;
+      background: rgba(255,255,255,0.02);
+      min-height: 280px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+    .card h3 {
+      margin: 0;
+      text-transform: uppercase;
+      font-size: 0.95rem;
+      letter-spacing: 0.1em;
+      color: var(--accent);
+    }
+    .card strong { font-size: 1.25rem; }
+    .pill-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+    .pill {
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      border: 1px solid var(--border);
+      padding: 6px 12px;
+      border-radius: 999px;
+      color: var(--muted);
+    }
+    .pill.is-on {
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 12px;
+      font-size: 0.92rem;
+    }
+    th, td {
+      text-align: left;
+      padding: 10px 0;
+      border-bottom: 1px solid rgba(255,255,255,0.06);
+    }
+    th { color: var(--muted); font-weight: 600; font-size: 0.8rem; letter-spacing: 0.1em; }
+    .stack-section {
+      padding: 10px 6vw 40px;
+    }
+    .stack-section h2 {
+      margin: 32px 0 10px;
+      font-size: 1.4rem;
+    }
+    .cta {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 16px 28px;
+      border-radius: 14px;
+      border: none;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      background: linear-gradient(120deg, var(--accent), var(--accent-2));
+      color: #050505;
+      cursor: pointer;
+      margin-top: 24px;
+    }
+    .foot-note {
+      text-align: center;
+      padding: 30px 6vw 60px;
+      color: var(--muted);
+      border-top: 1px solid var(--border);
+      font-size: 0.85rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <p class="pill is-on">TriClaw Seasonal Stack</p>
+    <h1>12-week Playbook for Time-Crunched Athletes (Sprint → Ironman)</h1>
+    <p class="tagline">One flexible scaffold that respects life, injects a must-do key session per discipline each week, and layers fueling + pacing execution so you can go from "need motivation" to “race-ready” without hiring a coach.</p>
+    <button class="cta">Unlock the stack</button>
+  </header>
+
+  <section class="grid">
+    <article class="card">
+      <h3>Weekly backbone</h3>
+      <strong>3 anchors + flex filler</strong>
+      <p>Every distance uses the same decision stack: Key Swim / Key Bike / Key Run + optional bricks, then endurance filler you can drop in when life gives you windows.</p>
+      <div class="pill-row">
+        <span class="pill is-on">Swim CSS</span>
+        <span class="pill is-on">Bike FTP</span>
+        <span class="pill is-on">Run Threshold</span>
+        <span class="pill">Strength 2×</span>
+      </div>
+    </article>
+
+    <article class="card">
+      <h3>Objective slider</h3>
+      <strong>Finish / Fast / Podium</strong>
+      <p>Each block exposes three intensity lanes. Stay in Finish when rebuilding, step into Fast once consistent, and toggle Podium for race-specific sharpening.</p>
+      <table>
+        <tr><th>Lane</th><th>Load</th><th>Signal</th></tr>
+        <tr><td>Finish</td><td>9–11h (70.3)</td><td>1 key per sport</td></tr>
+        <tr><td>Fast</td><td>11–13h</td><td>Add quality brick</td></tr>
+        <tr><td>Podium</td><td>13h+</td><td>Double intensity slots</td></tr>
+      </table>
+    </article>
+
+    <article class="card">
+      <h3>Distances covered</h3>
+      <strong>Sprint → IM</strong>
+      <p>Four distance templates, each with: volume range, weekly intent, long-day caps, brick guidance, taper shifts, fueling notes.</p>
+      <div class="pill-row">
+        <span class="pill is-on">Sprint</span>
+        <span class="pill is-on">Olympic</span>
+        <span class="pill">70.3</span>
+        <span class="pill">Ironman</span>
+      </div>
+    </article>
+
+    <article class="card">
+      <h3>Execution kit</h3>
+      <strong>Calculator + matrix</strong>
+      <p>Fueling matrix tied to session duration, pacing calculator keyed off anchor CSS/FTP/Threshold, race-week stress test checklist, transition rehearsal prompts.</p>
+      <div class="pill-row">
+        <span class="pill is-on">Fuel map</span>
+        <span class="pill">Pacing sheets</span>
+        <span class="pill">Transition flow</span>
+        <span class="pill">Race-week</span>
+      </div>
+    </article>
+  </section>
+
+  <section class="stack-section">
+    <h2>Distance scaffolds (preview)</h2>
+    <table>
+      <tr><th>Distance</th><th>Volume band</th><th>Long day caps</th><th>Weekly intent</th></tr>
+      <tr><td>Sprint</td><td>6–8h</td><td>Long run 75', long ride 2h</td><td>Consistency + pop; 1 brick every 10 days</td></tr>
+      <tr><td>Olympic</td><td>8–10h</td><td>Long run 90', long ride 2.5h</td><td>Raise aerobic floor, sharpen 10K speed</td></tr>
+      <tr><td>70.3</td><td>10–13h</td><td>Long run 2h, long ride 3.5h</td><td>Fueling precision, tempo durability</td></tr>
+      <tr><td>Ironman</td><td>14–18h</td><td>Long run 2h40, long ride 5h</td><td>Fatigue-proof pacing, double bricks</td></tr>
+    </table>
+
+    <h2>Key session cadence</h2>
+    <table>
+      <tr><th>Sport</th><th>Session</th><th>Purpose</th></tr>
+      <tr><td>Swim</td><td>CSS build (e.g., 6×200 @ CSS-3" / 20")</td><td>Preserve feel + pace under fatigue</td></tr>
+      <tr><td>Bike</td><td>90' progressive sweet-spot → threshold</td><td>Lift sustainable watts without chasing junk miles</td></tr>
+      <tr><td>Run</td><td>Broken tempo (3×10' @ HM pace / 2')</td><td>Reclaim speed with controllable stress</td></tr>
+    </table>
+  </section>
+
+  <section class="stack-section">
+    <h2>Race-week stress test (lead magnet already live)</h2>
+    <p>Use the checklist to catch logistics gaps, then upgrade into the 12-week Seasonal Stack when you’re ready for the full execution kit.</p>
+  </section>
+
+  <div class="foot-note">© 2026 TriClaw — Engineered sessions, zero fluff.</div>
+</body>
+</html>
