@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>TriClaw Seasonal Playbook</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      color-scheme: dark;
+      --bg: #03060b;
+      --surface: rgba(255,255,255,0.04);
+      --text: #f5f7ff;
+      --muted: #a5b4d0;
+      --accent: #8dff72;
+      --accent-2: #00d2ff;
+      --border: rgba(255,255,255,0.08);
+      font-size: 16px;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: 'Space Grotesk', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+      background: radial-gradient(circle at top, rgba(0,210,255,0.18), rgba(3,6,11,0.9)), var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+    }
+    header {
+      padding: 64px clamp(24px, 6vw, 80px) 32px;
+      position: relative;
+      overflow: hidden;
+    }
+    .glow {
+      position: absolute;
+      inset: auto -100px -80px;
+      height: 220px;
+      background: radial-gradient(circle, rgba(141,255,114,0.25), transparent 70%);
+      filter: blur(50px);
+      pointer-events: none;
+    }
+    .eyebrow {
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      font-size: 0.85rem;
+      color: var(--accent);
+    }
+    h1 {
+      font-size: clamp(2.5rem, 6vw, 4.5rem);
+      margin: 12px 0;
+      line-height: 1.1;
+    }
+    .hero-sub {
+      max-width: 620px;
+      color: var(--muted);
+      font-size: 1.1rem;
+    }
+    .cta-row {
+      margin-top: 32px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 16px;
+    }
+    .cta {
+      border: none;
+      border-radius: 999px;
+      padding: 16px 32px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      cursor: pointer;
+    }
+    .cta.primary {
+      background: linear-gradient(120deg, var(--accent), var(--accent-2));
+      color: #04131b;
+    }
+    .cta.secondary {
+      background: transparent;
+      color: var(--text);
+      border: 1px solid var(--border);
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 20px;
+      padding: 32px clamp(24px, 6vw, 80px);
+    }
+    .card {
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      padding: 24px;
+      background: var(--surface);
+      min-height: 240px;
+    }
+    .card h3 {
+      margin-top: 0;
+      text-transform: uppercase;
+      font-size: 0.9rem;
+      letter-spacing: 0.08em;
+      color: var(--accent-2);
+    }
+    .pill-row { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
+    .pill {
+      padding: 6px 12px;
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      font-size: 0.75rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+    section {
+      padding: 32px clamp(24px, 6vw, 80px);
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      overflow: hidden;
+      background: rgba(4,7,12,0.7);
+    }
+    th, td {
+      padding: 16px;
+      border-bottom: 1px solid rgba(255,255,255,0.05);
+      text-align: left;
+      font-size: 0.95rem;
+    }
+    th { text-transform: uppercase; letter-spacing: 0.08em; font-size: 0.8rem; color: var(--muted); }
+    tr:last-child td { border-bottom: none; }
+    .offer-stack {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 20px;
+    }
+    .offer {
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      padding: 24px;
+      background: rgba(141,255,114,0.05);
+    }
+    .offer strong { font-size: 2rem; display: block; margin-bottom: 12px; }
+    .faq {
+      border-top: 1px solid var(--border);
+      margin-top: 24px;
+    }
+    details {
+      border-bottom: 1px solid var(--border);
+      padding: 16px 0;
+    }
+    summary {
+      cursor: pointer;
+      font-weight: 600;
+    }
+    footer {
+      padding: 40px clamp(24px, 6vw, 80px);
+      color: var(--muted);
+      border-top: 1px solid var(--border);
+      text-align: center;
+      font-size: 0.85rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="glow"></div>
+    <p class="eyebrow">TriClaw Seasonal Playbook</p>
+    <h1>12-week operating system for time-crunched triathletes.</h1>
+    <p class="hero-sub">Built for ambitious age-groupers chasing sub-5h performances without hiring a coach. One flexible scaffold from Sprint to 70.3 with key sessions, fueling targets, and dashboard accountability baked in.</p>
+    <div class="cta-row">
+      <button class="cta primary">Unlock the stack</button>
+      <button class="cta secondary">Preview the curriculum</button>
+    </div>
+  </header>
+
+  <section class="grid">
+    <article class="card">
+      <h3>One weekly backbone</h3>
+      <p>Key Swim, Bike, Run anchors plus optional bricks + endurance filler so work/life constraints never break the program.</p>
+      <div class="pill-row"><span class="pill">CSS</span><span class="pill">FTP</span><span class="pill">Threshold</span><span class="pill">Strength 2×</span></div>
+    </article>
+    <article class="card">
+      <h3>Distance agnostic</h3>
+      <p>Sprint, Olympic, 70.3, Ironman templates share the same OS. Dial load with Finish/Fast/Podium lanes.</p>
+      <div class="pill-row"><span class="pill">Sprint</span><span class="pill">Olympic</span><span class="pill">70.3</span><span class="pill">IM</span></div>
+    </article>
+    <article class="card">
+      <h3>Execution kit</h3>
+      <p>Fuel map, pacing sheet, race-week stress test, transition checklist, and Notion/CSV dashboards included.</p>
+    </article>
+    <article class="card">
+      <h3>Coachless friendly</h3>
+      <p>Assessment loops every 3 weeks tell you when to stay in Finish or jump to Fast. Zero guesswork.</p>
+    </article>
+  </section>
+
+  <section>
+    <h2>What’s inside</h2>
+    <div class="offer-stack">
+      <article class="offer">
+        <strong>01</strong>
+        <h3>12-week blueprint</h3>
+        <p>Two complete tracks (Sprint + 70.3) with weekly focus, key sessions, bricks, and long-day caps. Copy/paste into your calendar.</p>
+      </article>
+      <article class="offer">
+        <strong>02</strong>
+        <h3>Calculators</h3>
+        <p>Fuel map CSV (.csv) auto-calculates carbs/fluids per session. Pacing sheet converts CSS/FTP/Threshold tests into race targets.</p>
+      </article>
+      <article class="offer">
+        <strong>03</strong>
+        <h3>Execution dashboard</h3>
+        <p>CSV + Notion-ready tracker with readiness score, fuel log, and issue tracker so you never repeat mistakes.</p>
+      </article>
+      <article class="offer">
+        <strong>04</strong>
+        <h3>Race-week stack</h3>
+        <p>Stress test checklist, transition rehearsal prompts, and 72-hour taper script to land calm and sharp.</p>
+      </article>
+    </div>
+  </section>
+
+  <section>
+    <h2>Volume & intent bands</h2>
+    <table>
+      <tr><th>Distance</th><th>Weekly volume</th><th>Long day caps</th><th>Intent</th></tr>
+      <tr><td>Sprint</td><td>6–8h (Finish) / 10–12h (Podium)</td><td>Ride 2h40 · Run 1h40</td><td>Consistency + speed pop</td></tr>
+      <tr><td>Olympic</td><td>8–10h / 12–14h</td><td>Ride 3h · Run 1h50</td><td>Raise aerobic floor</td></tr>
+      <tr><td>70.3</td><td>10–13h / 15h</td><td>Ride 4h15 · Run 2h20</td><td>Fueling + tempo durability</td></tr>
+      <tr><td>Ironman</td><td>14–18h</td><td>Ride 5h · Run 2h40</td><td>Fatigue-proof pacing</td></tr>
+    </table>
+  </section>
+
+  <section>
+    <h2>Proof of execution</h2>
+    <div class="grid">
+      <div class="card">
+        <p>“Graduated from 5h12 to 4h41 on the same course while working 50h/week. The decision stack removed all second-guessing.”</p>
+        <p><strong>— Alex · 70.3 age-grouper</strong></p>
+      </div>
+      <div class="card">
+        <p>“The fueling matrix finally got me above 80 g/hr without GI panic. Race-week stress test caught my transition bag mess.”</p>
+        <p><strong>— Priya · Sprint podium chaser</strong></p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>FAQs</h2>
+    <div class="faq">
+      <details>
+        <summary>Is coaching support included?</summary>
+        <p>No. The Seasonal Playbook is a self-serve operating system built to replace 1:1 coaching for self-directed athletes.</p>
+      </details>
+      <details>
+        <summary>How do I access the files?</summary>
+        <p>Immediate download (CSV, Markdown, HTML) plus GitHub access for updates. Works offline in your own trackers.</p>
+      </details>
+      <details>
+        <summary>What if I’m racing multiple distances?</summary>
+        <p>All templates share the same backbone—switch lanes (Finish/Fast/Podium) and distance tab without rebuilding from scratch.</p>
+      </details>
+    </div>
+  </section>
+
+  <section>
+    <div class="offer" style="max-width:720px;margin:auto;text-align:center;">
+      <p class="eyebrow">Launch offer</p>
+      <h2>TriClaw Seasonal Playbook — €179</h2>
+      <p>Lifetime updates · instant access · built for athletes who refuse to wing race day.</p>
+      <div class="cta-row" style="justify-content:center;">
+        <button class="cta primary">Checkout</button>
+        <button class="cta secondary">Download syllabus</button>
+      </div>
+    </div>
+  </section>
+
+  <footer>© 2026 TriClaw. Engineered sessions, zero fluff.</footer>
+</body>
+</html>
