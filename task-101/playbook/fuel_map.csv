@@ -1,0 +1,11 @@
+session_duration_min,intensity_lane,carb_g_per_hr,fluid_ml_per_hr,sodium_mg_per_hr,notes
+45,Finish,45,600,400,"Short quality session; prioritize mix of drink mix + single gel"
+60,Finish,55,650,500,"Add 200 mg caffeine if morning key set"
+90,Finish,60,700,600,"Practice bottle handoffs"
+120,Finish,65,750,700,"Include solid bite within first hour"
+150,Fast,75,800,800,"Alternate carb drink + gel every 20'"
+180,Fast,85,850,900,"Test gut with 90 g/hr limit"
+210,Fast,85,900,950,"Add sodium tabs if temps >25°C"
+240,Podium,90,950,1000,"Concentrated bottle (120 g) + water top-ups"
+270,Podium,95,950,1100,"Monitor GI feedback; switch to coke last hour"
+300,Podium,95,1000,1200,"Ironman rehearsal; include BCAA if tolerated"
